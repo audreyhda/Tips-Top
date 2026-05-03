@@ -48,7 +48,7 @@ The app infers user interests by tracking interactions, then recommends iPhone f
 - Stack navigation — `NavigationStack` / `UINavigationController`
 - HTTP protocol — REST API integration for tips content
 
----
+--- 
 
 ## ✨ Features
 
